@@ -1,0 +1,53 @@
+#### CIF created by Crystallographica 2 ####
+
+data_ErbiumOxideA
+
+_audit_creation_method                    'Crystallographica 2' 
+_cell_angle_alpha                         90 
+_cell_angle_beta                          90 
+_cell_angle_gamma                         120 
+_cell_formula_units_Z                     1 
+_cell_length_a                            3.6338 
+_cell_length_b                            3.6338 
+_cell_length_c                            5.8286 
+_cell_volume                              66.6526 
+_cgraph_comments                         'Ab initio study on structure and phase transition of A- and 
+     B-type rare-earth sesquioxides Ln2 O3 (Ln= La-Lu. Y and Sc) 
+     based on density function theory
+'
+_cgraph_title                            'Erbium Oxide - A'
+_chemical_formula_sum                    'Er2 O3'
+_symmetry_space_group_name_H-M           'P -3 m 1'
+_symmetry_space_group_name_Hall          '-P 3 2"'
+
+loop_
+        _symmetry_equiv_pos_as_xyz
+        'x, y, z'
+        '-x, -y, -z'
+        '-y, x-y, z'
+        'y, -x+y, -z'
+        '-x+y, -x, z'
+        'x-y, x, -z'
+        'x-y, -y, -z'
+        '-x+y, y, z'
+        '-x, -x+y, -z'
+        'x, x-y, z'
+        'y, x, -z'
+        '-y, -x, z'
+
+loop_
+        _atom_site_label
+        _atom_site_type_symbol
+        _atom_site_fract_x
+        _atom_site_fract_y
+        _atom_site_fract_z
+        _atom_site_U_iso_or_equiv
+        _atom_site_thermal_displace_type
+        _atom_site_occupancy
+        Er1 Er3+ 0.3333 0.6667 0.2502 0 Uiso 1
+        O1 O2- 0 0 0 0 Uiso 1
+        O2 O2- 0.3333 0.6667 0.6457 0 Uiso 1
+
+_eof
+
+#### End of Crystallographic Information File ####

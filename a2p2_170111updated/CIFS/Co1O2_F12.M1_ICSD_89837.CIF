@@ -1,0 +1,64 @@
+#### CIF created by Crystallographica 2 ####
+
+data_CobaltIVOxide
+
+_audit_creation_method                    'Crystallographica 2' 
+_cell_angle_alpha                         90 
+_cell_angle_beta                          93.49 
+_cell_angle_gamma                         90 
+_cell_formula_units_Z                     8 
+_cell_length_a                            4.904 
+_cell_length_b                            2.8081 
+_cell_length_c                            29.864 
+_cell_volume                              410.492 
+_cgraph_comments                         'A five-dimensional structural investigation of the misfit 
+     layer compound (Bi0.87 Sr O2)2 (Co O2)1.82
+'
+_cgraph_title                            'Cobalt(IV) Oxide'
+_chemical_formula_sum                    'Co O2'
+_symmetry_space_group_name_Hall          '-F 2y'
+
+loop_
+        _symmetry_equiv_pos_as_xyz
+        'x, y, z'
+        'x, y+1/2, z+1/2'
+        'x+1/2, y, z+1/2'
+        'x+1/2, y+1/2, z'
+        '-x, -y, -z'
+        '-x, -y+1/2, -z+1/2'
+        '-x+1/2, -y, -z+1/2'
+        '-x+1/2, -y+1/2, -z'
+        '-x, y, -z'
+        '-x, y+1/2, -z+1/2'
+        '-x+1/2, y, -z+1/2'
+        '-x+1/2, y+1/2, -z'
+        'x, -y, z'
+        'x, -y+1/2, z+1/2'
+        'x+1/2, -y, z+1/2'
+        'x+1/2, -y+1/2, z'
+
+loop_
+        _atom_site_label
+        _atom_site_type_symbol
+        _atom_site_fract_x
+        _atom_site_fract_y
+        _atom_site_fract_z
+        _atom_site_U_iso_or_equiv
+        _atom_site_thermal_displace_type
+        _atom_site_occupancy
+        Co1 Co 0 0.25 0.25 0 Uani 1
+        O1 O2- 0.8213 0.75 0.2165 0.0084 Uiso 1
+
+loop_
+        _atom_site_aniso_label
+        _atom_site_aniso_U_11
+        _atom_site_aniso_U_22
+        _atom_site_aniso_U_33
+        _atom_site_aniso_U_12
+        _atom_site_aniso_U_13
+        _atom_site_aniso_U_23
+        Co1 0.0008 0.0075 0.0102 0 0.0005 0
+
+_eof
+
+#### End of Crystallographic Information File ####

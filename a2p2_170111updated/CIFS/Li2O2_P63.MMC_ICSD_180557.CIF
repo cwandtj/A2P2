@@ -1,0 +1,64 @@
+#### CIF created by Crystallographica 2 ####
+
+data_DilithiumPeroxide
+
+_audit_creation_method                    'Crystallographica 2' 
+_cell_angle_alpha                         90 
+_cell_angle_beta                          90 
+_cell_angle_gamma                         120 
+_cell_formula_units_Z                     2 
+_cell_length_a                            3.164 
+_cell_length_b                            3.164 
+_cell_length_c                            7.724 
+_cell_volume                              66.9647 
+_cgraph_comments                         'Structure. mechanical stability and chemical bond in alkali 
+     metal oxides
+'
+_cgraph_title                            'Dilithium Peroxide'
+_chemical_formula_sum                    'Li2 O2'
+_symmetry_space_group_name_H-M           'P 63/m m c'
+_symmetry_space_group_name_Hall          '-P 6c 2c'
+
+loop_
+        _symmetry_equiv_pos_as_xyz
+        'x, y, z'
+        '-x, -y, -z'
+        'x-y, x, z+1/2'
+        '-x+y, -x, -z+1/2'
+        '-y, x-y, z'
+        'y, -x+y, -z'
+        '-x, -y, z+1/2'
+        'x, y, -z+1/2'
+        '-x+y, -x, z'
+        'x-y, x, -z'
+        'y, -x+y, z+1/2'
+        '-y, x-y, -z+1/2'
+        'x-y, -y, -z'
+        '-x+y, y, z'
+        '-x, -x+y, -z'
+        'x, x-y, z'
+        'y, x, -z'
+        '-y, -x, z'
+        '-y, -x, -z+1/2'
+        'y, x, z+1/2'
+        '-x+y, y, -z+1/2'
+        'x-y, -y, z+1/2'
+        'x, x-y, -z+1/2'
+        '-x, -x+y, z+1/2'
+
+loop_
+        _atom_site_label
+        _atom_site_type_symbol
+        _atom_site_fract_x
+        _atom_site_fract_y
+        _atom_site_fract_z
+        _atom_site_U_iso_or_equiv
+        _atom_site_thermal_displace_type
+        _atom_site_occupancy
+        Li1 Li1+ 0.3333 0.6667 0.25 0 Uiso 1
+        Li2 Li1+ 0 0 0 0 Uiso 1
+        O1 O1- 0.3333 0.6667 0.8539 0 Uiso 1
+
+_eof
+
+#### End of Crystallographic Information File ####

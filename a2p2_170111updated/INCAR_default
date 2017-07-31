@@ -1,0 +1,47 @@
+SYSTEM = A x B y ! short description on your system                                                 
+
+# Tags not to be modified
+NWRITE = 2
+ISTART = 0
+ICHARG = 2
+INIWAV = 1
+NSW = 150
+NELM = 200
+NELMDL = -5
+
+IBRION = 2
+POTIM = 0.2
+#SMASS = 0.4
+ISIF = 3
+ALGO = Normal
+PREC = Accurate
+EDIFF = 0.0001
+EDIFFG = -0.01
+ISYM = 2
+
+ISPIN = 2
+#LMAXMIN = 6
+VOSKOWN = 1
+LDAU = .TRUE.
+LDAUTYPE = 2
+ISMEAR = 0
+SIGMA = 0.05 ! <CW> Need to be tested
+
+ADDGRID = .FALSE.
+LWAVE = .FALSE.
+LCHARG = .FALSE.
+LREAL = AUTO
+LORBIT = 11
+
+LPLANE = .TRUE.
+NCORE = 10
+LSCALU = .FALSE.
+NSIM = 4
+
+# Tags to be modified 
+
+MAGMOM = 4*1.5 4*0.0 
+LDAUL = -1 -1
+LDAUU = 0 0 
+LDAUJ = 0 0
+ 

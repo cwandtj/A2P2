@@ -1,0 +1,88 @@
+#### CIF created by Crystallographica 2 ####
+
+data_YttriumOxide
+
+_audit_creation_method                    'Crystallographica 2' 
+_cell_angle_alpha                         90 
+_cell_angle_beta                          90 
+_cell_angle_gamma                         90 
+_cell_formula_units_Z                     16 
+_cell_length_a                            10.632 
+_cell_length_b                            10.632 
+_cell_length_c                            10.632 
+_cell_volume                              1201.84 
+_cgraph_comments                         'Auto-ignition based synthesis of Y2 O3 for photo- and 
+     thermo-luminescent applications
+'
+_cgraph_title                            'Yttrium Oxide'
+_chemical_formula_sum                    'Y2 O3'
+_symmetry_space_group_name_H-M           'I a -3'
+_symmetry_space_group_name_Hall          '-I 2b 2c 3'
+
+loop_
+        _symmetry_equiv_pos_as_xyz
+        'x, y, z'
+        'x+1/2, y+1/2, z+1/2'
+        '-x, -y, -z'
+        '-x+1/2, -y+1/2, -z+1/2'
+        'z, x, y'
+        'z+1/2, x+1/2, y+1/2'
+        '-z, -x, -y'
+        '-z+1/2, -x+1/2, -y+1/2'
+        'y, z, x'
+        'y+1/2, z+1/2, x+1/2'
+        '-y, -z, -x'
+        '-y+1/2, -z+1/2, -x+1/2'
+        '-y, -z+1/2, x'
+        '-y+1/2, -z, x+1/2'
+        'y, z+1/2, -x'
+        'y+1/2, z, -x+1/2'
+        'z, -x, -y+1/2'
+        'z+1/2, -x+1/2, -y'
+        '-z, x, y+1/2'
+        '-z+1/2, x+1/2, y'
+        '-y+1/2, z, -x'
+        '-y, z+1/2, -x+1/2'
+        'y+1/2, -z, x'
+        'y, -z+1/2, x+1/2'
+        '-z, -x+1/2, y'
+        '-z+1/2, -x, y+1/2'
+        'z, x+1/2, -y'
+        'z+1/2, x, -y+1/2'
+        '-z+1/2, x, -y'
+        '-z, x+1/2, -y+1/2'
+        'z+1/2, -x, y'
+        'z, -x+1/2, y+1/2'
+        'y, -z, -x+1/2'
+        'y+1/2, -z+1/2, -x'
+        '-y, z, x+1/2'
+        '-y+1/2, z+1/2, x'
+        '-x, -y+1/2, z'
+        '-x+1/2, -y, z+1/2'
+        'x, y+1/2, -z'
+        'x+1/2, y, -z+1/2'
+        'x, -y, -z+1/2'
+        'x+1/2, -y+1/2, -z'
+        '-x, y, z+1/2'
+        '-x+1/2, y+1/2, z'
+        '-x+1/2, y, -z'
+        '-x, y+1/2, -z+1/2'
+        'x+1/2, -y, z'
+        'x, -y+1/2, z+1/2'
+
+loop_
+        _atom_site_label
+        _atom_site_type_symbol
+        _atom_site_fract_x
+        _atom_site_fract_y
+        _atom_site_fract_z
+        _atom_site_U_iso_or_equiv
+        _atom_site_thermal_displace_type
+        _atom_site_occupancy
+        Y1 Y3+ 0.9696 0 0.25 0 Uiso 1
+        Y2 Y3+ 0.25 0.25 0.25 0 Uiso 1
+        O1 O2- 0.3911 0.1563 0.3936 0 Uiso 1
+
+_eof
+
+#### End of Crystallographic Information File ####

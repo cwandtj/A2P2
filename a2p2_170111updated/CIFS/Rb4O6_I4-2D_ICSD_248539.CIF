@@ -1,0 +1,56 @@
+#### CIF created by Crystallographica 2 ####
+
+data_RubidiumSesquioxide
+
+_audit_creation_method                    'Crystallographica 2' 
+_cell_angle_alpha                         90 
+_cell_angle_beta                          90 
+_cell_angle_gamma                         90 
+_cell_formula_units_Z                     4 
+_cell_length_a                            8.688 
+_cell_length_b                            8.688 
+_cell_length_c                            10.362 
+_cell_volume                              782.138 
+_cgraph_comments                         'Structural implications of spin. charge. and orbital 
+     ordering in rubidium sesquioxide. Rb4 O6
+'
+_cgraph_title                            'Rubidium Sesquioxide'
+_chemical_formula_sum                    'Rb4 O6'
+_symmetry_space_group_name_H-M           'I -4 2 d'
+_symmetry_space_group_name_Hall          ' I -4 2bw'
+
+loop_
+        _symmetry_equiv_pos_as_xyz
+        'x, y, z'
+        'x+1/2, y+1/2, z+1/2'
+        'y, -x, -z'
+        'y+1/2, -x+1/2, -z+1/2'
+        '-x, -y, z'
+        '-x+1/2, -y+1/2, z+1/2'
+        '-y, x, -z'
+        '-y+1/2, x+1/2, -z+1/2'
+        'x, -y+1/2, -z+1/4'
+        'x+1/2, -y, -z-1/4'
+        '-x, y+1/2, -z+1/4'
+        '-x+1/2, y, -z-1/4'
+        '-y, -x+1/2, z+1/4'
+        '-y+1/2, -x, z-1/4'
+        'y, x+1/2, z+1/4'
+        'y+1/2, x, z-1/4'
+
+loop_
+        _atom_site_label
+        _atom_site_type_symbol
+        _atom_site_fract_x
+        _atom_site_fract_y
+        _atom_site_fract_z
+        _atom_site_U_iso_or_equiv
+        _atom_site_thermal_displace_type
+        _atom_site_occupancy
+        Rb1 Rb1+ 0.6949 0.9457 0.0426 0.0161 Uiso 1
+        O1 O 0 0 0.925 0.0135 Uiso 1
+        O2 O 0.274 0.122 0.319 0.0423 Uiso 1
+
+_eof
+
+#### End of Crystallographic Information File ####

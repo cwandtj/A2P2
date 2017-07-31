@@ -1,0 +1,8 @@
+
+
+PSP_LIST = .TRUE.
+#PSP_NAME = Ni_GW, O_h, O_s
+#PSP_ENMAX = 100 
+#PSP_DENMAX = 5
+AP_INCAR_change=.TRUE.
+VASP_LOCATION = '/usr/local/vasp/vasp-5.3.5-vtst_i13_mkl'
